@@ -9,7 +9,6 @@ This project uses a Convolutional Neural Network (CNN) built with Keras to class
 - Grayscale 28x28 pixel digits (0-9)
 
 ##  Model Architecture
-
 The CNN model consists of:
 - Conv2  and MaxPooling2D layers for feature extraction
 - Flatten layer to prepare data for dense layers
