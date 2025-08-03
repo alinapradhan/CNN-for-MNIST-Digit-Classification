@@ -14,7 +14,6 @@ The CNN model consists of:
 - Flatten layer to prepare data for dense layers
 - Fully connected Dense layers for classification
 
-##  Getting Started
 
 ### Requirements
 
